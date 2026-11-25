@@ -36,8 +36,27 @@ Created a custom Python module named `student_utils.py` containing reusable func
 
 ---
 
-### P3
-To be added.
+### P3 - Student Record Manager
+
+Created a menu-driven student record manager using lists and sets. The program allows users to add, remove, search, and display student records. It prevents duplicate names regardless of capitalization, supports partial-name searching, and displays students alphabetically with a total count.
+
+**Run:**
+
+`python set1/p3/p3_record_manager.py`
+
+**Screenshots:**
+
+![Add Student](set1/p3/screenshots/add_student.png)
+
+![Display Students](set1/p3/screenshots/display_students.png)
+
+![Duplicate Prevention](set1/p3/screenshots/duplicate_prevention.png)
+
+![Remove Student](set1/p3/screenshots/remove_student.png)
+
+![Search Student](set1/p3/screenshots/search_student.png)
+
+---
 
 ### P4
 To be added.
