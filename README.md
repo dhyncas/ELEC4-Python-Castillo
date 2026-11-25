@@ -1,8 +1,8 @@
 
 # ELEC4 - Python Programming
 
-**Name:** Airish Dhyn D. Castillo  
-**Section:** A 
+**Name:** Airish Dhyn D. Castillo
+**Section:** A
 **Course:** ELEC4 - Python Programming
 
 ## Set 1 Activities
@@ -58,5 +58,18 @@ Created a menu-driven student record manager using lists and sets. The program a
 
 ---
 
-### P4
-To be added.
+### P4: Safe Menu Program
+
+- **Description:** A menu-driven Python program that handles invalid numbers, division by zero, missing files, and invalid menu choices using exception handling.
+- **Folder:** [P4 Folder](set1/p4/)
+- **Run:** `python set1/p4/p4_exceptions.py`
+
+#### Screenshots
+
+![Invalid number](set1/p4/screenshots/invalid_number.png)
+
+![Division by zero](set1/p4/screenshots/division_by_zero.png)
+
+![Missing file](set1/p4/screenshots/missing_file.png)
+
+![Invalid menu choice](set1/p4/screenshots/invalid_menu_choice.png)
