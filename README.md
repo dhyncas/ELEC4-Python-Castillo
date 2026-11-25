@@ -28,12 +28,13 @@ Created a custom Python module named `student_utils.py` containing reusable func
 
 **Run:**
 
-```bash
-python set1/p2/p2_main.py
+`python set1/p2/p2_main.py`
 
 **Screenshot:**
 
 ![P2 Program Output](set1/p2/screenshots/p2_program_output.png)
+
+---
 
 ### P3
 To be added.
