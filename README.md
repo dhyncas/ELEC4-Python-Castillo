@@ -1,8 +1,8 @@
 
 # ELEC4 - Python Programming
 
-**Name:** Airish Dhyn D. Castillo
-**Section:** A
+**Name:** Airish Dhyn D. Castillo<br>
+**Section:** A<br>
 **Course:** ELEC4 - Python Programming
 
 ## Set 1 Activities
@@ -24,11 +24,14 @@ python set1/p1/p1_grade_calculator.py
 
 ### P2 - Custom Module: student_utils
 
-Created a custom Python module named `student_utils.py` containing reusable functions for calculating grades. The main program imports and uses the custom module along with a built-in Python module.
+**Description:** Created a custom Python module named `student_utils.py` containing reusable functions for calculating grades. The main program imports and uses the custom module along with a built-in Python module.
 
-**Run:**
+**Folder:** [P2 - Custom Module: student_utils](set1/p2/)
 
-`python set1/p2/p2_main.py`
+**Run Command:**
+```bash
+python set1/p2/p2_main.py
+```
 
 **Screenshot:**
 
@@ -38,11 +41,14 @@ Created a custom Python module named `student_utils.py` containing reusable func
 
 ### P3 - Student Record Manager
 
-Created a menu-driven student record manager using lists and sets. The program allows users to add, remove, search, and display student records. It prevents duplicate names regardless of capitalization, supports partial-name searching, and displays students alphabetically with a total count.
+**Description:** Created a menu-driven student record manager using lists and sets. The program allows users to add, remove, search, and display student records. It prevents duplicate names regardless of capitalization, supports partial-name searching, and displays students alphabetically with a total count.
 
-**Run:**
+**Folder:** [P3 - Student Record Manager](set1/p3/)
 
-`python set1/p3/p3_record_manager.py`
+**Run Command:**
+```bash
+python set1/p3/p3_record_manager.py
+```
 
 **Screenshots:**
 
@@ -60,9 +66,14 @@ Created a menu-driven student record manager using lists and sets. The program a
 
 ### P4: Safe Menu Program
 
-- **Description:** A menu-driven Python program that handles invalid numbers, division by zero, missing files, and invalid menu choices using exception handling.
-- **Folder:** [P4 Folder](set1/p4/)
-- **Run:** `python set1/p4/p4_exceptions.py`
+**Description:** A menu-driven Python program that handles invalid numbers, division by zero, missing files, and invalid menu choices using exception handling.
+
+**Folder:** [P4 - Safe Menu Program](set1/p4/)
+
+**Run Command:** 
+```bash
+python set1/p4/p4_exceptions.py
+```
 
 #### Screenshots
 
