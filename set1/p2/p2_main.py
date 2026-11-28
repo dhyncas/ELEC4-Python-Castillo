@@ -1,8 +1,7 @@
-# Name: [Airish Dhyn D. Castillo]
-# Section: [A]
-# Activity: ELEC 4 - Set 1 - P2
-# File: p2_main.py
-# Date: [November 19, 2026]
+#Name: Castillo, Airish Dhyn D.
+#Section: A
+#Activity: ELEC 4 - Set 1 - P2
+#Date: November 19, 2026
 
 import student_utils  #This imports the custom module.
 from datetime import datetime
