@@ -20,7 +20,7 @@ python set1/p1/p1_grade_calculator.py
 
 **Screenshot:**
 
-![P1 Sample Run](set1/p1/screenshots/p1_sample_run.png)
+![P1 Sample Run](set1/p1/screenshots/sample_run.png)
 
 ### P2 - Custom Module: student_utils
 
@@ -35,7 +35,7 @@ python set1/p2/p2_main.py
 
 **Screenshot:**
 
-![P2 Program Output](set1/p2/screenshots/p2_program_output.png)
+![P2 Program Output](set1/p2/screenshots/program_output.png)
 
 ---
 

@@ -1,9 +1,9 @@
-# Name: [Castillo, Airish Dhyn D.]
-# Section: [A]
-# Activity: ELEC 4 - Set 1 - P1
-# Date: [November 18, 2026]
+#Name: Castillo, Airish Dhyn D.
+#Section: A
+#Activity: ELEC 4 - Set 1 - P1
+#Date: November 18, 2026
 
-# Global variable
+#Global variable for passing grade
 PASSING_GRADE = 75
 
 
